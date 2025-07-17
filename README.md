@@ -2,8 +2,11 @@
 
 ## Highlights
 ・Counter CoreXY (T.B.D)
+
 ・Collinear CoreXY (T.B.D)
+
 ・Cross Gantry CoreXY (T.B.D)
+
 ・WormDualDriveExtruder
 
 ・Printer size 240mm×240mm×388mm (about)
